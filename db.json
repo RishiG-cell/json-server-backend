@@ -219,6 +219,19 @@
     { "name": "Slovakia", "flag": "https://flagcdn.com/w640/sk.png" },
     { "name": "Slovenia", "flag": "https://flagcdn.com/w640/si.png" },
     { "name": "Spain", "flag": "https://flagcdn.com/w640/es.png" },
-    { "name": "Sweden", "flag": "https://flagcdn.com/w640/se.png" }
+    { "name": "Sweden", "flag": "https://flagcdn.com/w640/se.png" },
+    { "name": "UK", "flag": "https://flagpedia.net/data/flags/w580/gb.webp" },
+    {
+      "name": "Scotland",
+      "flag": "https://flagpedia.net/data/flags/w580/gb-sct.webp"
+    },
+    {
+      "name": "Norway",
+      "flag": "https://flagpedia.net/data/flags/w580/no.webp"
+    },
+    {
+      "name": "Iceland",
+      "flag": "https://flagpedia.net/data/flags/w580/is.webp"
+    }
   ]
 }
