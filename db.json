@@ -7,7 +7,8 @@
       "date": "15-08-2025",
       "description": "A coastal celebration of music, surf, and sun. Featuring indie and electronic acts.",
       "genre": "Electronic",
-      "image": "https://images.openai.com/thumbnails/7186a7e21fc266c2d06956e4b264ae24.jpegg"
+      "image": "https://images.openai.com/thumbnails/7186a7e21fc266c2d06956e4b264ae24.jpegg",
+      "price": 45
     },
     {
       "id": "c217b9d2-3d3a-4eaf-a0c2-eebc26e508d2",
@@ -16,7 +17,8 @@
       "date": "22-09-2025",
       "description": "Celebrate the fall equinox with farm-to-table food, craft vendors, and live folk music.",
       "genre": "Folk",
-      "image": "https://images.openai.com/thumbnails/4be2681db698729173802969bee0e16a.jpeg"
+      "image": "https://images.openai.com/thumbnails/4be2681db698729173802969bee0e16a.jpeg",
+      "price": 45
     },
     {
       "id": "a6e3a7a3-5386-4016-a73e-03e6e8c278b1",
@@ -25,7 +27,8 @@
       "date": "07-04-2025",
       "description": "A nighttime festival of neon art, food trucks, and live DJs under the stars.",
       "genre": "EDM",
-      "image": "https://images.openai.com/thumbnails/f785afc54868a462d5701ac2723ab9c8.jpeg"
+      "image": "https://images.openai.com/thumbnails/f785afc54868a462d5701ac2723ab9c8.jpeg",
+      "price": 45
     },
     {
       "id": "f9cb9a4e-83d6-4d5c-9f74-9c9bc3e8724b",
@@ -34,7 +37,8 @@
       "date": "01-12-2025",
       "description": "Experience the northern lights with immersive light installations and winter activities.",
       "genre": "Electronic",
-      "image": "https://www.visitberlin.de/system/files/styles/visitberlin_hero_visitberlin_desktop_2x/private/event_images/vb-65-1617eed5-e5fc-4356-9e41-2e081d80dc52.jpg.webp?itok=jmh9O8cA"
+      "image": "https://www.visitberlin.de/system/files/styles/visitberlin_hero_visitberlin_desktop_2x/private/event_images/vb-65-1617eed5-e5fc-4356-9e41-2e081d80dc52.jpg.webp?itok=jmh9O8cA",
+      "price": 45
     },
     {
       "id": "d148cf24-e98d-47f6-88f5-97a60d5bd6c1",
@@ -43,7 +47,8 @@
       "date": "16-06-2025",
       "description": "Tropical celebration of Polynesian culture, dance, and traditional drumming.",
       "genre": "World Music",
-      "image": "https://uncoverasia.com/wp-content/uploads/2019/06/Rainforest-World-Music-Festival-Concert.png"
+      "image": "https://uncoverasia.com/wp-content/uploads/2019/06/Rainforest-World-Music-Festival-Concert.png",
+      "price": 35
     },
     {
       "id": "be59c83b-cb5b-46c1-b6f4-f64833eeb7b0",
@@ -52,16 +57,18 @@
       "date": "01-08-2025",
       "description": "An industrial-meets-urban music and street art experience.",
       "genre": "Hip-Hop",
-      "image": "https://www.doncasterfreepress.co.uk/webimg/b25lY21zOjhiYmNhYzEwLTVjYmEtNDQ5ZS04NDgyLWNmYjhmOTBjNTBjMzpjZmMzY2FhZS04MWUyLTQzMzItOThhNi0zZmY1M2Q2ODU5ZDI%3D.jpg?enable=upscale&width=1200"
+      "image": "https://www.doncasterfreepress.co.uk/webimg/b25lY21zOjhiYmNhYzEwLTVjYmEtNDQ5ZS04NDgyLWNmYjhmOTBjNTBjMzpjZmMzY2FhZS04MWUyLTQzMzItOThhNi0zZmY1M2Q2ODU5ZDI%3D.jpg?enable=upscale&width=1200",
+      "price": 25
     },
     {
       "id": "82fd04aa-3f26-420e-a3e1-3c12be9eaf38",
       "name": "Blizzard Bash",
       "location": "Reykjavík, Iceland",
       "date": "10-02-2025",
-      "description": "A winter music fest featuring rock and alternative bands performing in snow domes.",
-      "genre": "Rock",
-      "image": "https://vickyflipfloptravels.com/wp-content/uploads/2019/10/RodiganSnowbombing.jpg"
+      "description": "A winter music fest featuring dj's from all over the world performing in snow domes.",
+      "genre": "EDM",
+      "image": "https://vickyflipfloptravels.com/wp-content/uploads/2019/10/RodiganSnowbombing.jpg",
+      "price": 37
     },
     {
       "id": "63a420f6-ec0b-4f98-a50a-c319df9995c4",
@@ -70,7 +77,8 @@
       "date": "12-04-2025",
       "description": "A desert retreat for acoustic, soul, and yoga lovers.",
       "genre": "Acoustic",
-      "image": "https://images.openai.com/thumbnails/741713ee3f4ecfbbf9c8e92af6dc25fd.jpeg"
+      "image": "https://images.openai.com/thumbnails/741713ee3f4ecfbbf9c8e92af6dc25fd.jpeg",
+      "price": 18
     },
     {
       "id": "1e591a07-74f6-4d25-8dd9-d44e1e07e9e6",
@@ -79,7 +87,8 @@
       "date": "05-05-2025",
       "description": "An immersive jazz event with neon visuals and late-night jam sessions.",
       "genre": "Jazz",
-      "image": "https://img.freepik.com/premium-vector/jazz-festival-neon-signs-style-text_118419-2194.jpg"
+      "image": "https://img.freepik.com/premium-vector/jazz-festival-neon-signs-style-text_118419-2194.jpg",
+      "price": 25
     },
     {
       "id": "ba58a6a9-79fc-41e3-88b6-b03c86e0b8b2",
@@ -88,7 +97,8 @@
       "date": "11-11-2025",
       "description": "A sci-fi themed festival with synthwave music and digital art exhibitions.",
       "genre": "Synthwave",
-      "image": "https://www.brooklynstreetart.com/theblog/wp-content/uploads/2020/10/brooklyn-street-art-spider-tag-lyon-france-10-20-web-4.jpg"
+      "image": "https://www.brooklynstreetart.com/theblog/wp-content/uploads/2020/10/brooklyn-street-art-spider-tag-lyon-france-10-20-web-4.jpg",
+      "price": 55
     },
     {
       "id": "f9a0742d-70e3-4d40-9784-7f4d1d3a9f00",
@@ -97,9 +107,9 @@
       "date": "31-10-2025",
       "description": "Step into the wizarding world with themed music, costumes, butterbeer, wand duels, and a magical atmosphere inspired by the Harry Potter universe.",
       "genre": "Fantasy",
-      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/77dc1881-ee7e-4984-bf24-fabe3a94a997/d7xntyi-62ece12c-8a0e-4537-9502-7e8e2c8dd823.jpg/v1/fill/w_600%2Ch_883%2Cq_75%2Cstrp/welcome_to_hogwarts_by_illustoryart_d7xntyi-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODgzIiwicGF0aCI6IlwvZlwvNzdkYzE4ODEtZWU3ZS00OTg0LWJmMjQtZmFiZTNhOTRhOTk3XC9kN3hudHlpLTYyZWNlMTJjLThhMGUtNDUzNy05NTAyLTdlOGUyYzhkZDgyMy5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.J7oBt6bQKxlyVnFOFN_vuecuEpe6I7XdcmDf9dCNYQQ"
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/77dc1881-ee7e-4984-bf24-fabe3a94a997/d7xntyi-62ece12c-8a0e-4537-9502-7e8e2c8dd823.jpg/v1/fill/w_600%2Ch_883%2Cq_75%2Cstrp/welcome_to_hogwarts_by_illustoryart_d7xntyi-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODgzIiwicGF0aCI6IlwvZlwvNzdkYzE4ODEtZWU3ZS00OTg0LWJmMjQtZmFiZTNhOTRhOTk3XC9kN3hudHlpLTYyZWNlMTJjLThhMGUtNDUzNy05NTAyLTdlOGUyYzhkZDgyMy5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.J7oBt6bQKxlyVnFOFN_vuecuEpe6I7XdcmDf9dCNYQQ",
+      "price": 25
     },
-
     {
       "id": "f1b7f6fc-3d4a-4b25-8590-973e5e1791d9",
       "name": "Bassline Alps",
@@ -107,7 +117,8 @@
       "date": "20-12-2025",
       "description": "Snow-covered peaks meet underground bass and mountain raves.",
       "genre": "EDM",
-      "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 47
     },
     {
       "id": "6a801c32-2557-4a89-8ccf-fae7c8b11f9e",
@@ -116,7 +127,8 @@
       "date": "09-01-2025",
       "description": "Underground hip-hop beats in metro stations and street venues.",
       "genre": "Hip-Hop",
-      "image": "https://images.unsplash.com/photo-1544346056-b77456f04d52?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://images.unsplash.com/photo-1544346056-b77456f04d52?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 5
     },
     {
       "id": "cfbf44ed-b0f4-4e48-80f8-0b61c76e8cb3",
@@ -125,7 +137,8 @@
       "date": "25-11-2025",
       "description": "An icy rave beneath the aurora with ambient techno and glowing stages.",
       "genre": "Techno",
-      "image": "https://unsplash.com/photos/people-are-camping-in-a-cave-with-colored-lights-taIe5d1axrI"
+      "image": "https://unsplash.com/photos/people-are-camping-in-a-cave-with-colored-lights-taIe5d1axrI",
+      "price": 45
     },
     {
       "id": "29ae65b2-7487-49cb-bcad-df247bd4fdc2",
@@ -134,7 +147,8 @@
       "date": "08-09-2025",
       "description": "Urban music takeover with grime, hip-hop, and industrial visuals.",
       "genre": "Hip-Hop",
-      "image": "https://images.unsplash.com/photo-1568621825747-bd0733c18c64?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://images.unsplash.com/photo-1568621825747-bd0733c18c64?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 25
     },
     {
       "id": "b501cb2e-1fa3-4b5f-8cb5-e4cfad62eb45",
@@ -143,7 +157,8 @@
       "date": "27-08-2025",
       "description": "Electronic and house music in historic coastal forts and modern clubs.",
       "genre": "House",
-      "image": "https://images.unsplash.com/photo-1518972559570-7cc1309f3229"
+      "image": "https://images.unsplash.com/photo-1518972559570-7cc1309f3229",
+      "price": 25
     },
     {
       "id": "51c5af35-812e-4ecf-86d3-65d8c161f03c",
@@ -152,7 +167,8 @@
       "date": "10-10-2025",
       "description": "EDM and trance festival held in repurposed tunnels and caves.",
       "genre": "EDM",
-      "image": "https://images.unsplash.com/photo-1518098268026-4e89f1a2cd8e"
+      "image": "https://images.unsplash.com/photo-1518098268026-4e89f1a2cd8e",
+      "price": 27
     },
     {
       "id": "7d478dc6-6c39-4b87-b09c-4e13f35760b2",
@@ -161,7 +177,8 @@
       "date": "18-06-2025",
       "description": "A digital-meets-nature gathering with chill electronic and immersive visuals.",
       "genre": "Electronic",
-      "image": "https://unsplash.com/photos/worms-eye-view-of-forest-during-day-time-19SC2oaVZW0"
+      "image": "https://unsplash.com/photos/worms-eye-view-of-forest-during-day-time-19SC2oaVZW0",
+      "price": 19
     },
     {
       "id": "b4de3548-c1e7-42ef-a793-4384d615587e",
@@ -170,7 +187,8 @@
       "date": "07-12-2025",
       "description": "Hip-hop, rap battles, and breakdancing in open plazas and rooftops.",
       "genre": "Hip-Hop",
-      "image": "https://media.istockphoto.com/id/1079863596/photo/city-of-brussels-by-twilight.jpg?s=612x612&w=is&k=20&c=L-ZnazGfQw3CEURaUymEY1S5nc9VX-6vdjv-vAA3bQ8="
+      "image": "https://media.istockphoto.com/id/1079863596/photo/city-of-brussels-by-twilight.jpg?s=612x612&w=is&k=20&c=L-ZnazGfQw3CEURaUymEY1S5nc9VX-6vdjv-vAA3bQ8=",
+      "price": 17
     },
     {
       "id": "32a0d6fa-6ae3-4dc7-bb35-8020e3b24834",
@@ -179,7 +197,8 @@
       "date": "22-08-2025",
       "description": "Electronic festival blending ancient ruins with modern light shows.",
       "genre": "Electronic",
-      "image": "https://images.unsplash.com/photo-1741290115238-5b057512e73f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://images.unsplash.com/photo-1741290115238-5b057512e73f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 23
     },
     {
       "id": "c99b6d2d-50b8-41a2-b40c-e8128cfa9c0f",
@@ -188,39 +207,323 @@
       "date": "17-09-2025",
       "description": "Dark basslines and futuristic visuals in an abandoned factory setting.",
       "genre": "EDM",
-      "image": "https://images.unsplash.com/photo-1549924231-f129b911e442"
+      "image": "https://images.unsplash.com/photo-1549924231-f129b911e442",
+      "price": 25
+    },
+    {
+      "id": "f4e1c890-52e3-4b5d-99f5-8ad10ecaa001",
+      "name": "Nordic Lights Festival",
+      "location": "Tromsø, Norway",
+      "date": "15-03-2025",
+      "description": "Ambient and chillwave under the aurora borealis.",
+      "genre": "Ambient",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Nordlys_ved_Tromso.jpg/640px-Nordlys_ved_Tromso.jpg",
+      "price": 33
+    },
+    {
+      "id": "f4e1c890-52e3-4b5d-99f5-8ad10ecaa002",
+      "name": "Vienna Strings & Sounds",
+      "location": "Vienna, Austria",
+      "date": "12-06-2025",
+      "description": "Open-air classical symphonies in imperial gardens.",
+      "genre": "Classical",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Schonbrunn_palace_panorama.jpg/640px-Schonbrunn_palace_panorama.jpg",
+      "price": 34
+    },
+    {
+      "id": "f4e1c890-52e3-4b5d-99f5-8ad10ecaa003",
+      "name": "Baltic Echoes",
+      "location": "Tallinn, Estonia",
+      "date": "08-08-2025",
+      "description": "Indie and electronic acts within medieval city walls.",
+      "genre": "Indie Electronic",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Tallinn_Aerial_5.jpg/640px-Tallinn_Aerial_5.jpg",
+      "price": 53
+    },
+    {
+      "id": "f4e1c890-52e3-4b5d-99f5-8ad10ecaa004",
+      "name": "Celtic Moon Gathering",
+      "location": "Galway, Ireland",
+      "date": "21-09-2025",
+      "description": "Traditional Celtic music and moonlit bonfires.",
+      "genre": "Folk",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Claddagh_Galway_Ireland.jpg/640px-Claddagh_Galway_Ireland.jpg",
+      "price": 34
+    },
+    {
+      "id": "f4e1c890-52e3-4b5d-99f5-8ad10ecaa005",
+      "name": "Berlin Pulse",
+      "location": "Berlin, Germany",
+      "date": "19-07-2025",
+      "description": "Techno and art installations in abandoned factories.",
+      "genre": "Techno",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Berghain_club_in_Berlin.jpg/640px-Berghain_club_in_Berlin.jpg",
+      "price": 56
+    },
+    {
+      "id": "f4e1c890-52e3-4b5d-99f5-8ad10ecaa006",
+      "name": "Alpine Rhythm Escape",
+      "location": "Innsbruck, Austria",
+      "date": "10-08-2025",
+      "description": "Live electronic sets with panoramic alpine views.",
+      "genre": "House",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Innsbruck_Panorama.jpg/640px-Innsbruck_Panorama.jpg",
+      "price": 23
+    },
+    {
+      "id": "f4e1c890-52e3-4b5d-99f5-8ad10ecaa007",
+      "name": "Seville Sunbeats",
+      "location": "Seville, Spain",
+      "date": "28-06-2025",
+      "description": "A fusion of flamenco, house, and tropical vibes.",
+      "genre": "World Fusion",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sevilla_Panorama.jpg/640px-Sevilla_Panorama.jpg",
+      "price": 11
+    },
+    {
+      "id": "f4e1c890-52e3-4b5d-99f5-8ad10ecaa008",
+      "name": "Bohemian Grove Sounds",
+      "location": "Český Krumlov, Czech Republic",
+      "date": "03-07-2025",
+      "description": "Jazz and experimental live acts in a historic fairytale town.",
+      "genre": "Jazz",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cesky_Krumlov_View.jpg/640px-Cesky_Krumlov_View.jpg",
+      "price": 11
+    },
+    {
+      "id": "f4e1c890-52e3-4b5d-99f5-8ad10ecaa009",
+      "name": "Lapland Chillscape",
+      "location": "Rovaniemi, Finland",
+      "date": "17-12-2025",
+      "description": "Downtempo music with snow sculptures and fire pits.",
+      "genre": "Downtempo",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rovaniemi_city_center_winter.jpg/640px-Rovaniemi_city_center_winter.jpg",
+      "price": 23
+    },
+    {
+      "id": "f4e1c890-52e3-4b5d-99f5-8ad10ecaa00a",
+      "name": "Adriatic Sunset Sessions",
+      "location": "Split, Croatia",
+      "date": "25-08-2025",
+      "description": "Beachside chillhop, sunset visuals, and seafood feasts.",
+      "genre": "Chillhop",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Split_Croatia_Panorama.jpg/640px-Split_Croatia_Panorama.jpg",
+      "price": 34
+    },
+    {
+      "id": "f4e1c890-52e3-4b5d-99f5-8ad10ecaa00b",
+      "name": "Concrete Waves",
+      "location": "Paris, France",
+      "date": "06-09-2025",
+      "description": "Underground techno beneath bridges on the Seine.",
+      "genre": "Techno",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Under_the_Pont_de_Bir-Hakeim.jpg/640px-Under_the_Pont_de_Bir-Hakeim.jpg",
+      "price": 22
+    },
+    {
+      "id": "f4e1c890-52e3-4b5d-99f5-8ad10ecaa00c",
+      "name": "Factory Frequencies",
+      "location": "Łódź, Poland",
+      "date": "03-10-2025",
+      "description": "Dark industrial techno in historic textile mills.",
+      "genre": "Techno",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/EC1_Lodz.jpg/640px-EC1_Lodz.jpg",
+      "price": 22
+    },
+    {
+      "id": "f4e1c890-52e3-4b5d-99f5-8ad10ecaa00d",
+      "name": "Subsonic Tunnels",
+      "location": "Naples, Italy",
+      "date": "13-07-2025",
+      "description": "Raves in ancient Roman tunnels below the city.",
+      "genre": "Techno",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Galleria_Borbonica.jpg/640px-Galleria_Borbonica.jpg",
+      "price": 44
+    },
+    {
+      "id": "f4e1c890-52e3-4b5d-99f5-8ad10ecaa00e",
+      "name": "Stockholm Bass Assembly",
+      "location": "Stockholm, Sweden",
+      "date": "16-08-2025",
+      "description": "Minimal and dark techno by the docks.",
+      "genre": "Techno",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Stockholm_dock_area.jpg/640px-Stockholm_dock_area.jpg",
+      "price": 33
+    },
+    {
+      "id": "f4e1c890-52e3-4b5d-99f5-8ad10ecaa00f",
+      "name": "Black Forest Beats",
+      "location": "Freiburg, Germany",
+      "date": "29-06-2025",
+      "description": "Techno in open-air stages among pine trees.",
+      "genre": "Techno",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Black_Forest_from_Kandel.jpg/640px-Black_Forest_from_Kandel.jpg",
+      "price": 44
+    },
+    {
+      "id": "f4e1c890-52e3-4b5d-99f5-8ad10ecaa010",
+      "name": "Lisbon Grooves",
+      "location": "Lisbon, Portugal",
+      "date": "14-09-2025",
+      "description": "House beats echo through hillside neighborhoods.",
+      "genre": "House",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Lisbon_Miradouro.jpg/640px-Lisbon_Miradouro.jpg",
+      "price": 55
+    },
+    {
+      "id": "f4e1c890-52e3-4b5d-99f5-8ad10ecaa011",
+      "name": "Ibiza Retrohouse",
+      "location": "Ibiza, Spain",
+      "date": "01-07-2025",
+      "description": "A throwback to early 2000s house on sunset beaches.",
+      "genre": "House",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ibiza_Cala_Salada.jpg/640px-Ibiza_Cala_Salada.jpg",
+      "price": 44
+    },
+    {
+      "id": "f4e1c890-52e3-4b5d-99f5-8ad10ecaa012",
+      "name": "Canal Vibe Festival",
+      "location": "Amsterdam, Netherlands",
+      "date": "22-08-2025",
+      "description": "Floating house parties across the canals.",
+      "genre": "House",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Amsterdam_Canals_Sunset.jpg/640px-Amsterdam_Canals_Sunset.jpg",
+      "price": 34
+    },
+    {
+      "id": "f4e1c890-52e3-4b5d-99f5-8ad10ecaa013",
+      "name": "Sofia Rooftop Sessions",
+      "location": "Sofia, Bulgaria",
+      "date": "18-07-2025",
+      "description": "Deep house on panoramic rooftops over the city skyline.",
+      "genre": "House",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sofia_Panorama.jpg/640px-Sofia_Panorama.jpg",
+      "price": 33
+    },
+    {
+      "id": "f4e1c890-52e3-4b5d-99f5-8ad10ecaa014",
+      "name": "Dubrovnik Horizon",
+      "location": "Dubrovnik, Croatia",
+      "date": "05-08-2025",
+      "description": "Uplifting house overlooking the Adriatic.",
+      "genre": "House",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dubrovnik_Old_Town.jpg/640px-Dubrovnik_Old_Town.jpg",
+      "price": 55
     }
   ],
-
   "countries": [
-    { "name": "Austria", "flag": "https://flagcdn.com/w640/at.png" },
-    { "name": "Belgium", "flag": "https://flagcdn.com/w640/be.png" },
-    { "name": "Bulgaria", "flag": "https://flagcdn.com/w640/bg.png" },
-    { "name": "Croatia", "flag": "https://flagcdn.com/w640/hr.png" },
-    { "name": "Cyprus", "flag": "https://flagcdn.com/w640/cy.png" },
-    { "name": "Czech Republic", "flag": "https://flagcdn.com/w640/cz.png" },
-    { "name": "Denmark", "flag": "https://flagcdn.com/w640/dk.png" },
-    { "name": "Estonia", "flag": "https://flagcdn.com/w640/ee.png" },
-    { "name": "Finland", "flag": "https://flagcdn.com/w640/fi.png" },
-    { "name": "France", "flag": "https://flagcdn.com/w640/fr.png" },
-    { "name": "Germany", "flag": "https://flagcdn.com/w640/de.png" },
-    { "name": "Greece", "flag": "https://flagcdn.com/w640/gr.png" },
-    { "name": "Hungary", "flag": "https://flagcdn.com/w640/hu.png" },
-    { "name": "Ireland", "flag": "https://flagcdn.com/w640/ie.png" },
-    { "name": "Italy", "flag": "https://flagcdn.com/w640/it.png" },
-    { "name": "Latvia", "flag": "https://flagcdn.com/w640/lv.png" },
-    { "name": "Lithuania", "flag": "https://flagcdn.com/w640/lt.png" },
-    { "name": "Luxembourg", "flag": "https://flagcdn.com/w640/lu.png" },
-    { "name": "Malta", "flag": "https://flagcdn.com/w640/mt.png" },
-    { "name": "Netherlands", "flag": "https://flagcdn.com/w640/nl.png" },
-    { "name": "Poland", "flag": "https://flagcdn.com/w640/pl.png" },
-    { "name": "Portugal", "flag": "https://flagcdn.com/w640/pt.png" },
-    { "name": "Romania", "flag": "https://flagcdn.com/w640/ro.png" },
-    { "name": "Slovakia", "flag": "https://flagcdn.com/w640/sk.png" },
-    { "name": "Slovenia", "flag": "https://flagcdn.com/w640/si.png" },
-    { "name": "Spain", "flag": "https://flagcdn.com/w640/es.png" },
-    { "name": "Sweden", "flag": "https://flagcdn.com/w640/se.png" },
-    { "name": "UK", "flag": "https://flagpedia.net/data/flags/w580/gb.webp" },
+    {
+      "name": "Austria",
+      "flag": "https://flagcdn.com/w640/at.png"
+    },
+    {
+      "name": "Belgium",
+      "flag": "https://flagcdn.com/w640/be.png"
+    },
+    {
+      "name": "Bulgaria",
+      "flag": "https://flagcdn.com/w640/bg.png"
+    },
+    {
+      "name": "Croatia",
+      "flag": "https://flagcdn.com/w640/hr.png"
+    },
+    {
+      "name": "Cyprus",
+      "flag": "https://flagcdn.com/w640/cy.png"
+    },
+    {
+      "name": "Czech Republic",
+      "flag": "https://flagcdn.com/w640/cz.png"
+    },
+    {
+      "name": "Denmark",
+      "flag": "https://flagcdn.com/w640/dk.png"
+    },
+    {
+      "name": "Estonia",
+      "flag": "https://flagcdn.com/w640/ee.png"
+    },
+    {
+      "name": "Finland",
+      "flag": "https://flagcdn.com/w640/fi.png"
+    },
+    {
+      "name": "France",
+      "flag": "https://flagcdn.com/w640/fr.png"
+    },
+    {
+      "name": "Germany",
+      "flag": "https://flagcdn.com/w640/de.png"
+    },
+    {
+      "name": "Greece",
+      "flag": "https://flagcdn.com/w640/gr.png"
+    },
+    {
+      "name": "Hungary",
+      "flag": "https://flagcdn.com/w640/hu.png"
+    },
+    {
+      "name": "Ireland",
+      "flag": "https://flagcdn.com/w640/ie.png"
+    },
+    {
+      "name": "Italy",
+      "flag": "https://flagcdn.com/w640/it.png"
+    },
+    {
+      "name": "Latvia",
+      "flag": "https://flagcdn.com/w640/lv.png"
+    },
+    {
+      "name": "Lithuania",
+      "flag": "https://flagcdn.com/w640/lt.png"
+    },
+    {
+      "name": "Luxembourg",
+      "flag": "https://flagcdn.com/w640/lu.png"
+    },
+    {
+      "name": "Malta",
+      "flag": "https://flagcdn.com/w640/mt.png"
+    },
+    {
+      "name": "Netherlands",
+      "flag": "https://flagcdn.com/w640/nl.png"
+    },
+    {
+      "name": "Poland",
+      "flag": "https://flagcdn.com/w640/pl.png"
+    },
+    {
+      "name": "Portugal",
+      "flag": "https://flagcdn.com/w640/pt.png"
+    },
+    {
+      "name": "Romania",
+      "flag": "https://flagcdn.com/w640/ro.png"
+    },
+    {
+      "name": "Slovakia",
+      "flag": "https://flagcdn.com/w640/sk.png"
+    },
+    {
+      "name": "Slovenia",
+      "flag": "https://flagcdn.com/w640/si.png"
+    },
+    {
+      "name": "Spain",
+      "flag": "https://flagcdn.com/w640/es.png"
+    },
+    {
+      "name": "Sweden",
+      "flag": "https://flagcdn.com/w640/se.png"
+    },
+    {
+      "name": "UK",
+      "flag": "https://flagpedia.net/data/flags/w580/gb.webp"
+    },
     {
       "name": "Scotland",
       "flag": "https://flagpedia.net/data/flags/w580/gb-sct.webp"
@@ -233,5 +536,6 @@
       "name": "Iceland",
       "flag": "https://flagpedia.net/data/flags/w580/is.webp"
     }
-  ]
+  ],
+  "tickets": []
 }
