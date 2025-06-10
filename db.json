@@ -399,6 +399,26 @@
       "genre": "House",
       "image": "https://picsum.photos/200",
       "price": 55
+    },
+    {
+      "name": "Kafka",
+      "location": "Netherlands",
+      "date": "fad",
+      "description": "aafe",
+      "genre": "adfa",
+      "image": "http://res.cloudinary.com/dgtp5s2en/image/upload/v1749570128/ernyliefvfvczpkommrx.png",
+      "price": "111",
+      "id": "jFXpej9"
+    },
+    {
+      "name": "Fresh ti val",
+      "location": "Sofia, Bulgaria",
+      "date": "06-07-2025",
+      "description": "The best beats of Sofia",
+      "genre": "Urban",
+      "image": "http://res.cloudinary.com/dgtp5s2en/image/upload/v1749571429/yjfceqihyaleswlwedd3.png",
+      "price": "14",
+      "id": "j3uVMXW"
     }
   ],
   "countries": [
@@ -516,7 +536,7 @@
     },
     {
       "name": "Scotland",
-      "flag": "https://flagpedia.net/data/flags/w580/gb-sct.webp"
+      "flag": "https://wallpapers.com/images/high/the-hogwarts-great-hall-1407-x-900-wallpaper-m3um4f5k8ndjhgpn.webp"
     },
     {
       "name": "Norway",
